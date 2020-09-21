@@ -29,6 +29,10 @@ import java.util.List;
 
 /**
  * Provides a slimmed down view onto KafkaCluster to avoid circular references in code.
+   You all are awesome!!!
+
+
+     Super proud of all of you,
  */
 public interface KafkaProvider {
     /**
